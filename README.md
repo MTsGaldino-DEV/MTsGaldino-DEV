@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-galdino-4a1359328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/matheusgaldino15"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="mailto:matheusgaldinogv@hotmail.com"><img src="https://img.shields.io/badge/Email-57406b?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=MTsGaldino-DEV&color=57406b&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -168,7 +169,7 @@ Sou desenvolvedor full-stack autodidata e aprendi **construindo**. Trabalho numa
 Gosto de colocar as regras de negócio **onde não dá pra burlar**: no banco, com RLS, funções transacionais e testes que provam que elas funcionam. Primeiro entendo o negócio, depois escrevo o código.
 
 **Stack:** TypeScript, React, Next.js, React Native/Expo, Supabase, PostgreSQL, NestJS, Docker.
-**Contato:** [LinkedIn](https://www.linkedin.com/in/matheus-galdino-4a1359328/) · [matheusgaldinogv@hotmail.com](mailto:matheusgaldinogv@hotmail.com)
+**Contato:** [LinkedIn](https://www.linkedin.com/in/matheus-galdino-4a1359328/) · [Behance](https://www.behance.net/matheusgaldino15) · [matheusgaldinogv@hotmail.com](mailto:matheusgaldinogv@hotmail.com)
 
 </details>
 
